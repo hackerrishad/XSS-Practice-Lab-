@@ -1,8 +1,7 @@
 # XSS-Practice-Lab
 
 
-
-Lab Link : http://leettime.net/xsslab1/chalg1.php
+##Lab Link : http://leettime.net/xsslab1/chalg1.php
 
 Author : Sheikh Rishad
 
