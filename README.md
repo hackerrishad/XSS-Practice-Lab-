@@ -8,7 +8,7 @@
 <XSS Practice Lab/>
 
 
-Challenge_1:
+## Challenge_1:
 
     <input type="text" name="name"></input>
 
