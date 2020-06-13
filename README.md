@@ -6,8 +6,8 @@
 ### Author : Sheikh Rishad
 
 <XSS Practice Lab/>
-#
-#
+
+
 ## Challenge_1:
 
     <input type="text" name="name"></input>
